@@ -1,0 +1,13 @@
+{
+  "name": "drupal/commerce_cart_cookies",
+  "type": "drupal-module",
+  "description": "Uses cookies for cart session instead of PHP sessions",
+  "keywords": ["Drupal", "Commerce"],
+  "license": "GPL-2.0+",
+  "homepage": "https://github.com/mglaman/commerce_cart_cookies",
+  "minimum-stability": "dev",
+  "require": {
+    "drupal/commerce": "~2.0"
+  }
+}
+
