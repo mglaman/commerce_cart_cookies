@@ -1,0 +1,6 @@
+name: Commerce Cart Cookies
+description: Uses cookies for cart session instead of PHP sessions
+core: 8.x
+type: module
+dependencies:
+  - commerce_cart
